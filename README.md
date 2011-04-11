@@ -1,0 +1,1 @@
+JSON articles with random content. Python script uses [this](http://code.google.com/p/lorem-ipsum-generator/) module.
